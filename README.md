@@ -31,10 +31,6 @@ Implementar un módulo que convierta el valor binario de los switches a formato 
 
 Utilizar una decodificadora para mapear los valores decimales a los segmentos adecuados en el display de 7 segmentos.
 
-### 4. Integración y Pruebas
-
-Cargar el código en la FPGA, probar su funcionamiento y realizar ajustes si es necesario.
-
 ## Imagen de la FPGA
 
 ![Imagen de la FPGA DE10-Lite](fpga.jpeg)
