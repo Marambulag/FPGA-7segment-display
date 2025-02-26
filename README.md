@@ -39,3 +39,8 @@ Cargar el código en la FPGA, probar su funcionamiento y realizar ajustes si es 
 
 ![Imagen de la FPGA DE10-Lite](fpga.jpeg)
 
+## RTL Viewer
+
+![Imagen de RTL Viewer](rtl.png)
+
+
